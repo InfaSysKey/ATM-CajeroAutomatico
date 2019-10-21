@@ -4,8 +4,9 @@
     <img alt="License: GPL3" src="https://img.shields.io/badge/License-GPL3-yellow.svg" />
   </a>
 </p>
+
 ## Features
 
-- Change the visual part of the program 
+- Change the visual part of the program
 - Add changes to the backend and use new methods 
 - Change the language of the files, comments to English 👏👏
