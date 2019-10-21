@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to ATM (Cajero Automatico) 👋👋</h1>
+<h1 align="center">Welcome to ATM (Cajero Automatico) 👋</h1>
 <p>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">
     <img alt="License: GPL3" src="https://img.shields.io/badge/License-GPL3-yellow.svg" />
