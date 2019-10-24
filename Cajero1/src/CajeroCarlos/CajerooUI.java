@@ -103,18 +103,18 @@ public class CajerooUI extends javax.swing.JFrame implements ActionListener, Mou
         labelLogoAtm.addMouseListener(this);
         getContentPane().setBackground(new Color(83, 88, 107));
         panelLogin.setBackground(new Color(134, 222, 249));
-        cursor();
+        //cursor();
     }
     /**
      * Cursos dedo.
      */
-    public void cursor(){
+    /*public void cursor(){
         Cursor cursor;
         ImageIcon imagenes = new ImageIcon("src\\ImagenesCajero\\DedoNegro.png");
         Toolkit t = Toolkit.getDefaultToolkit();
         cursor = t.createCustomCursor(imagenes.getImage(), new Point(1, 1), "Dedo");
         setCursor(cursor);
-    }
+    }*/
 
     /**
      *
