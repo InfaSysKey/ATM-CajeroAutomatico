@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author InfaSysKey Carlos del Cura Pascual
- * @version 1.0
+ * @version 1.1
  * @see <a href = "https://www.linkedin.com/in/delcuracarlos/" /></a>
  *
  *
